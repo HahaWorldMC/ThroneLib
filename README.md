@@ -26,6 +26,6 @@ repositories {
 }
 
 dependencies {
-    implementation "cc.thronix:thronelib:1.0.0"
+    implementation "cc.thronix:lib:1.0.0"
 }
 ```
