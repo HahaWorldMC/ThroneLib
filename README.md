@@ -21,10 +21,6 @@ Lightweight and modern **Paper plugin library** built with Adventure API and Jav
 Add ThroneLib as a dependency in your plugin.
 
 ```gradle
-repositories {
-    maven { url = "https://your.repo.url" }
-}
-
 dependencies {
     implementation "cc.thronix:lib:1.0.0"
 }
